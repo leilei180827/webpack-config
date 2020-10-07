@@ -1,0 +1,40 @@
+#banner {
+  background-color: aqua;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  display: flex;
+  width: 200px;
+  height: 120px;
+}
+#banner img {
+  width: 100px;
+  height: 100px;
+}
+
+#features {
+  background-color: aqua;
+  clear: both;
+  width: 300px;
+  margin-top: 20px;
+}
+#features img {
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+#features h3 {
+  width: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.btn-chocolate {
+  background-color: chocolate;
+}
+.btn-blue {
+  background-color: blue;
+}
+

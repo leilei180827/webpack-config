@@ -1,0 +1,14 @@
+#features {
+  background-color: aqua;
+  clear: both;
+  width: 300px;
+  margin-top: 20px;
+}
+#features img {
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+#features h3 {
+  width: 50px;
+}
